@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffa4cf50.css",
+    "main.js": "/static/js/main.b2ee0e0b.js",
+    "static/media/giphy.gif": "/static/media/giphy.3189a9f7fba8b9178a81.gif",
+    "static/media/iphone.svg": "/static/media/iphone.d2cfd53fb2ad58cb756990bf22481d73.svg",
+    "static/media/like.svg": "/static/media/like.9706586da82c3e891092342c79539f36.svg",
+    "static/media/Comfortaa-Medium.ttf": "/static/media/Comfortaa-Medium.db5c74bd40268b35dc93.ttf",
+    "static/media/darts.svg": "/static/media/darts.bc6b909c663c0c5b1b2698e55306be7b.svg",
+    "static/media/call.svg": "/static/media/call.1392e49f3cd070bf275590a2da12a786.svg",
+    "static/media/Dangrek-Regular.ttf": "/static/media/Dangrek-Regular.c4d0a223adeb43a9a2cc.ttf",
+    "static/media/lock.svg": "/static/media/lock.8065d866e905a84758a33a39392b091e.svg",
+    "static/media/back.svg": "/static/media/back.c67de495b6644378d800e0ea94e076e0.svg",
+    "static/media/googleplay.svg": "/static/media/googleplay.221ad1ed16bdb7ddf514b5154a13883f.svg",
+    "static/media/appgalery.svg": "/static/media/appgalery.6a2f7722fb4dcf0ad71b3b9f263ceee5.svg",
+    "static/media/appstore.svg": "/static/media/appstore.2a078806f63216a0389719bde018255e.svg",
+    "static/media/front.png": "/static/media/front.12185add3157fcfdc17f.png",
+    "static/media/logo.svg": "/static/media/logo.dacb96f15c97d92b8381b94cdadd6803.svg",
+    "static/media/instagram.svg": "/static/media/instagram.554a01240610fdd98238bd9eca0a7da3.svg",
+    "index.html": "/index.html",
+    "static/media/telegram.svg": "/static/media/telegram.834313e5f07746c3836981db1abf3431.svg",
+    "static/media/hero.svg": "/static/media/hero.388ef8e7f0b0e3f87523.svg",
+    "static/media/facebook.svg": "/static/media/facebook.288c0129f070944d31848fa220eb8777.svg",
+    "static/media/footer_bg.svg": "/static/media/footer_bg.d9255b9fb1cec5a808d0207b79107a47.svg",
+    "main.ffa4cf50.css.map": "/static/css/main.ffa4cf50.css.map",
+    "main.b2ee0e0b.js.map": "/static/js/main.b2ee0e0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffa4cf50.css",
+    "static/js/main.b2ee0e0b.js"
+  ]
+}
