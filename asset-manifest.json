@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.ffa4cf50.css",
-    "main.js": "/static/js/main.0ff48043.js",
-    "static/media/EasyGo.apk": "/static/media/EasyGo.e85a50d7abb0d96bf81c.apk",
+    "main.js": "/static/js/main.7725fc51.js",
+    "static/media/EasyGo.apk": "/static/media/EasyGo.0a699cffb1a4e150b86a.apk",
     "static/media/giphy.gif": "/static/media/giphy.3189a9f7fba8b9178a81.gif",
     "static/media/iphone.svg": "/static/media/iphone.d2cfd53fb2ad58cb756990bf22481d73.svg",
     "static/media/like.svg": "/static/media/like.9706586da82c3e891092342c79539f36.svg",
@@ -24,10 +24,10 @@
     "static/media/hero.svg": "/static/media/hero.388ef8e7f0b0e3f87523.svg",
     "static/media/footer_bg.svg": "/static/media/footer_bg.d9255b9fb1cec5a808d0207b79107a47.svg",
     "main.ffa4cf50.css.map": "/static/css/main.ffa4cf50.css.map",
-    "main.0ff48043.js.map": "/static/js/main.0ff48043.js.map"
+    "main.7725fc51.js.map": "/static/js/main.7725fc51.js.map"
   },
   "entrypoints": [
     "static/css/main.ffa4cf50.css",
-    "static/js/main.0ff48043.js"
+    "static/js/main.7725fc51.js"
   ]
 }
